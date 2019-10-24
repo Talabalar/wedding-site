@@ -1,0 +1,93 @@
+#item1{
+    background-image: url("../images/hero_1.jpg");
+}
+#item2{
+    background-image: url("../images/img_1.jpg");
+}
+#item3{
+    background-image: url("../images/img_3.jpg");
+}
+ul{
+    list-style-type: none;
+}
+li a:hover{
+    color: #ce9d00 !important;
+}
+
+.item{
+    height:800px;
+    background-size: cover;
+    /*position: relative;*/
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+}
+p a:hover{
+    color: #ce9d00 !important;
+}
+.parda{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4)
+}
+#id1{
+    width: 100%;
+    height: 100px;
+    background-color: #5a6268;
+    background-color: rgba(0,0,0,0.5);
+}
+#id2{
+    width: 100%;
+    height: 100px;
+    background-color: #5a6268;
+    background-color: rgba(0,0,0,0.5);
+}#id3{
+     width: 100%;
+     height: 100px;
+     background-color: #5a6268;
+     background-color: rgba(0,0,0,0.5);
+ }
+.birinchi{
+    font-size: 60px;
+    font-family: "Agency FB";
+    color: #ca9800;
+}
+.btn1{
+
+    width: 200px;
+    height: 50px;
+    background-color: #ba8b00;
+    border: 1px solid #ba8b00;
+    color: inherit;
+    border-radius: 51px;
+}
+.btn1:hover{
+    background-color: #de6c0b;
+    color: white;
+}
+.ikkinchi{
+
+}
+.uchinchi{
+    color: #ba8b00;
+    font-family: "Helvetica Neue";
+    /*margin-top: 100px;*/
+}
+.rasm{
+    border: 1px solid inherit;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.tort{
+    width: 100%;
+    height: 100%;
+    background-size: cover ;
+    background-color: black;
+}
+.rasm1{
+    width: 100vw;
+    height: 100vh;
+}
